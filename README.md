@@ -1,0 +1,1 @@
+# how-to-install-openshift-3.10-baremetall
